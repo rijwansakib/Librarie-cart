@@ -1,0 +1,103 @@
+[
+    {
+        "key": "01",
+        "name": "Humayun Ahmed",
+        "occupation":"Writer, film director, academic, dramatist",
+        "nationality":"Bangladeshi",
+        "born": "November 13, 1948",
+        "education": "PhD in polymer chemistry Alma mater,University of Dhaka (BSc MSc)North Dakota State University (PhD)",
+        "img": "https://img.thedailystar.net/sites/default/files/feature/images/humayun_ahmed_10.jpg",
+        "books":200,
+        "price":100000
+
+    },
+    {
+        "key": "02",
+        "name": "Abdullah Abu Sayeed",
+        "occupation":"Teacher, writer, television presenter, activist",
+        "nationality":"Bangladeshi",
+        "born": "25 July 1939",
+        "education": "BA Hons (Bengali) MA (Bengali))",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Abdullah_Abu_Sayeed_%28cropped%29.jpg/330px-Abdullah_Abu_Sayeed_%28cropped%29.jpg",
+        "books":5,
+        "price":20000
+
+    },
+    {
+        "key": "03",
+        "name": "Begum Rokeya",
+        "occupation":"Writer, educator, activist",
+        "nationality":"Bangladeshi",
+        "born": "9 December 1880",
+        "education": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Begum_Rokeya.jpg/330px-Begum_Rokeya.jpg",
+        "books":60,
+        "price":10000
+    },
+    {
+        "key": "04",
+        "name": "Jahanara Imam",
+        "occupation":"Writer, educator, activist",
+        "nationality":"Bangladeshi",
+        "born": "3 May 1929",
+        "education": "MA",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Jahanara_Imam_1993.jpg",
+        "books":20,
+        "price":14000
+    },
+    {
+        "key": "05",
+        "name": "Kazi Nazrul Islam",
+        "occupation":" Writer writersong singer translator political activist",
+        "nationality":"Bangladeshi",
+        "born": "25 May 1899",
+        "education": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Nazrul.jpg",
+        "books":500,
+        "price":200000
+    },
+    {
+        "key": "06",
+        "name": "Munier Choudhury",
+        "occupation":" Writer  educationist,literary critic and political dissident",
+        "nationality":"Bangladeshi",
+        "born": "27 November 1925",
+        "education": "MA (linguistics)",
+        "img": "https://upload.wikimedia.org/wikipedia/en/8/8e/Munier_Chowdhury.jpg",
+        "books":40,
+        "price":20000
+    },
+    {
+        "key": "07",
+        "name": "Muhammed Zafar Iqbal",
+        "occupation":"Physicist, writer, columnist",
+        "nationality":"Bangladeshi",
+        "born": "23 December 1952",
+        "education": "PhD in physics",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Book_Fair_2015_Dhaka_%2816519100026%29.jpg/330px-Book_Fair_2015_Dhaka_%2816519100026%29.jpg",
+        "books":15,
+        "price":15000
+    },
+    {
+        "key": "08",
+        "name": "Asad Chowdhury",
+        "occupation":"writer",
+        "nationality":"Bangladeshi",
+        "born": "11 February 1943",
+        "education": "",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Asad_Chowdhury_2010.jpg/330px-Asad_Chowdhury_2010.jpg",
+        "books":35,
+        "price":100000
+    },
+    {
+        "key": "09",
+        "name": "Ahmed Sofa",
+        "occupation":"Writer",
+        "nationality":"Bangladeshi",
+        "born": "30 June 1943",
+        "education": "master's in political science from the University of Dhaka",
+        "img": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Ahmed_Sofa.jpg",
+        "books":30,
+        "price":100000
+    }
+]
